@@ -1,0 +1,162 @@
+{
+    "CruiseId": 77468,
+    "Operator": {
+        "OperatorCode": "NC",
+        "OperatorName": "Norwegian Cruise Line",
+        "OperatorLogo": "/images/cruise/norwegian-cruise-line.jpg"
+    },
+    "Ship": {
+        "ShipName": "Norwegian Epic",
+        "ShipCode": 27,
+        "ShipImage": "/images/ship/norwegian-epic.jpg",
+        "Ratings": {
+            "Dining": "/images/rating/star-4.00.gif",
+            "PublicRooms": "/images/rating/star-3.00.gif",
+            "Cabins": "/images/rating/star-4.00.gif",
+            "Entertainment": "/images/rating/star-5.00.gif",
+            "SpaAndEntertainment": "/images/rating/star-4.00.gif",
+            "Family": "/images/rating/star-5.00.gif",
+            "ShoreExcursions": "/images/rating/star-4.00.gif",
+            "Enrichment": "/images/rating/star-3.00.gif",
+            "Service": "/images/rating/star-4.00.gif",
+            "ValueForMoney": "/images/rating/star-3.00.gif",
+            "Rates": "/images/rating/star-3.00.gif",
+            "OverallRating": "/images/rating/star-4.00.gif"
+        }
+    },
+    "CruiseLength": 7,
+    "CruiseDestination": "Western Caribbean",
+    "CruiseName": "7-Day Western Caribbean, Round Trip Miami",
+    "CruiseDescription": "When you have thousands of choices and all of them are right, that's Freestyle Cruising on Norwegian Cruise Line. Enjoy your vacation on your terms-it's all up to you. Take in some never-before-seen entertainment at sea or eat somewhere different every day, on your own schedule. No matter what you choose, you can't go wrong. Even when you lose track of time, you won't miss a thing. That's the freedom of Freestyle Cruising.",
+    "PortsOfCall": "Miami, Florida; Ocho Rios, Jamaica; George Town, Grand Cayman, Cayman Islands; Cozumel, Mexico; Miami, Florida",
+    "PriceFrom": "Inside $549",
+    "ShoreExcursions": {
+        "ShoreExcursion": [
+            {
+                "Name": "Passion Island by Power Catamaran",
+                "LargeImage": "/images/excursions/passion-island-by-power-catamaran-cozumel-mexico-m.jpg",
+                "SmallImage": "/images/excursions/passion-island-by-power-catamaran-cozumel-mexico-s.jpg",
+                "PortName": "Cozumel, Mexico",
+                "Rating": "/images/rating/star-4.00.gif",
+                "Description": "Travel by motorized catamaran along the Cozumel coast to Isla Pasion, a beautiful picture perfect private island where white sandy beaches are surrounded by crystal clear turquoise waters."
+            },
+            {
+                "Name": "Isla Pasion by Twister!",
+                "LargeImage": "/images/excursions/isla-pasion-by-twister-cozumel-mexico-m.jpg",
+                "SmallImage": "/images/excursions/isla-pasion-by-twister-cozumel-mexico-s.jpg",
+                "PortName": "Cozumel, Mexico",
+                "Rating": "/images/rating/star-4.00.gif",
+                "Description": "Feel the adrenaline rush through your body in this extreme boat ride to Isla Pasion!"
+            }
+        ]
+    },
+    "ItinerarySchedule": {
+        "ItineraryScheduleItem": [
+            {
+                "ScheduleDate": "Apr 05 - 12, 2015",
+                "ItineraryCode": "NC2015040520150412",
+                "Pricing": [
+                    {
+                        "CategoryName": "Inside",
+                        "LeadPrice": "$599"
+                    },
+                    {
+                        "CategoryName": "Oceanview",
+                        "LeadPrice": ""
+                    },
+                    {
+                        "CategoryName": "Balcony",
+                        "LeadPrice": "$849"
+                    },
+                    {
+                        "CategoryName": "Suite",
+                        "LeadPrice": "$1049"
+                    }
+                ]
+            },
+            {
+                "ScheduleDate": "Apr 12 - 19, 2015",
+                "ItineraryCode": "NC2015041220150419",
+                "Pricing": [
+                    {
+                        "CategoryName": "Inside",
+                        "LeadPrice": "$549"
+                    },
+                    {
+                        "CategoryName": "Oceanview",
+                        "LeadPrice": ""
+                    },
+                    {
+                        "CategoryName": "Balcony",
+                        "LeadPrice": "$799"
+                    },
+                    {
+                        "CategoryName": "Suite",
+                        "LeadPrice": "$799"
+                    }
+                ]
+            }
+        ]
+    },
+    "ItineraryImage": "/images/itinerary/77468.jpg",
+    "Itinerary": {
+        "ItineraryItem": [
+            {
+                "SortOrder": 1,
+                "Day": "Day 1",
+                "PortName": "Miami, Florida, United States",
+                "Arrival": "---",
+                "Departure": "4:00 PM"
+            },
+            {
+                "SortOrder": 2,
+                "Day": "Day 2",
+                "PortName": "At Sea",
+                "Arrival": "---",
+                "Departure": "---"
+            },
+            {
+                "SortOrder": 3,
+                "Day": "Day 3",
+                "PortName": "At Sea",
+                "Arrival": "---",
+                "Departure": "---"
+            },
+            {
+                "SortOrder": 4,
+                "Day": "Day 4",
+                "PortName": "Ocho Rios, Jamaica",
+                "Arrival": "8:00 AM",
+                "Departure": "5:00 PM"
+            },
+            {
+                "SortOrder": 5,
+                "Day": "Day 5",
+                "PortName": "George Town, Grand Cayman, Cayman Islands, United Kingdom",
+                "Arrival": "8:00 AM",
+                "Departure": "4:00 PM"
+            },
+            {
+                "SortOrder": 6,
+                "Day": "Day 6",
+                "PortName": "Cozumel, Mexico",
+                "Arrival": "10:00 AM",
+                "Departure": "6:00 PM"
+            },
+            {
+                "SortOrder": 7,
+                "Day": "Day 7",
+                "PortName": "At Sea",
+                "Arrival": "---",
+                "Departure": "---"
+            },
+            {
+                "SortOrder": 8,
+                "Day": "Day 8",
+                "PortName": "Miami, Florida, United States",
+                "Arrival": "8:00 AM",
+                "Departure": "---"
+            }
+        ]
+    }
+}
